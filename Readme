@@ -1,0 +1,1 @@
+java -jar ResumeGenerator.jar "Name" "Roll number" "Computer Science and Engineering" "UG Third/Second Year" "Indian Institute of Technology, Bombay" "Gender" "Specialization" "DOB" "Graduation; IIT Bombay; IIT Bombay; 2014/15; CPI" "Intermediate/+2; <Board>; <College Name>; <Year>; <%>" "Matriculation; <Board>; <School Name>; <Year>; <%>"
